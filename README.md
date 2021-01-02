@@ -8,4 +8,4 @@ Hello world sample for PSX using the PSYQ dev tools
 - Run `psymake` to compile
 - Run `cpe2x main.cpe /AC` to generate a PSX executable
 
-Based on [Hello World sample from PSXDev](http://www.psxdev.net/help/psyq_hello_world.html)
+Based on [Hello World sample from PSXDev](http://www.psxdev.net/help/psyq_hello_world.html) and walkthrough from [Wituz](https://www.youtube.com/watch?v=BC6uXz7p2bI&t=293s) 
